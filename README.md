@@ -20,7 +20,7 @@ Full-Stack Engine is a MultiPlay-Game-Develop Engine
 6.双端下支持包括但不限于（AI，物理引擎，版本迭代解决方案，定制化网络同步方案，动画系统，弹性计算，分布式服务器）
 
 
-### RoadMap-里程碑：
+### RoadMap：
 
 1.全服大区开房间式状态同步解决方案（Full-Stack Engine雏形初现）
 
